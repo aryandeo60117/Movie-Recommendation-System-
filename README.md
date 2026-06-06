@@ -1,0 +1,1 @@
+A Machine Learning-based Movie Recommendation System that uses TF-IDF Vectorization and Cosine Similarity to recommend movies based on genres, keywords, cast, director, and tagline. The project includes fuzzy matching to handle user input errors and deliver accurate movie suggestions.
